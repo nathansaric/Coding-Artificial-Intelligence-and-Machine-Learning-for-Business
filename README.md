@@ -1,1 +1,1 @@
-# Coding-Artificial-Intelligence-and-Machine-Learning-for-Business
+# Coding Artificial Intelligence and Machine Learning for Business
